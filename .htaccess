@@ -1,0 +1,5 @@
+# Begin Force SSL
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.linkpanamadmc\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.linkpanamadmc.com/$1 [R,L]

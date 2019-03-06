@@ -1,0 +1,295 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.linkpanamadmc.com" resolutions="1x" timestamp="1519087354217">
+  <folder name="css">
+    <file name="site_global.css" crc="3786102389"/>
+    <file name="master_a-master.css" crc="467957340" ref="historical-venue:sunny-days-at-the-beach:folklore---culture:event-planning:activities:a--modern-panama--city"/>
+    <file name="historical-venue.css" crc="262372802" ref="historical-venue"/>
+    <file name="sunny-days-at-the-beach.css" crc="262372802" ref="sunny-days-at-the-beach"/>
+    <file name="folklore---culture.css" crc="262372802" ref="folklore---culture"/>
+    <file name="event-planning.css" crc="262372802" ref="event-planning"/>
+    <file name="activities.css" crc="262372802" ref="activities"/>
+    <file name="index.css" crc="121268455" ref="index"/>
+    <file name="iefonts_index.css" crc="4230272006" ref="index"/>
+    <file name="a--modern-panama--city.css" crc="262372802" ref="a--modern-panama--city"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u3890.php" crc="95249615" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="require.js" crc="4157109226" ref="index:sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+  </folder>
+  <folder name="images">
+    <file name="1b.jpg" crc="238903135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sunny-days-at-the-beach"/>
+    <file name="b2.jpg" crc="3871590599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b3.jpg" crc="4188186006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b4.jpg" crc="3853830006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b5.jpg" crc="4228960194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b6.jpg" crc="4225769828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b7.jpg" crc="306556820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b11.jpg" crc="3760424191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u184-4.png" crc="4121597712" ref="index"/>
+    <file name="u10570-6.png" crc="3987935284" ref="index"/>
+    <file name="u10551-4.png" crc="3844077169" ref="index"/>
+    <file name="portada 1.jpg" crc="4116611560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 2.jpg" crc="3912725676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 3.jpg" crc="4266993964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 4.jpg" crc="4128511935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 5.jpg" crc="4128065285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 6.jpg" crc="4182565598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 7.jpg" crc="141967105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 8.jpg" crc="4237806410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 9.jpg" crc="4281336322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 10.jpg" crc="4093064702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 11.jpg" crc="148001701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 12.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada 13.jpg" crc="483811297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-u1850-fr.png" crc="3820152841" ref="index"/>
+    <file name="u3617-6.png" crc="4234827496" ref="index"/>
+    <file name="u3810-6.png" crc="3842502646" ref="index"/>
+    <file name="u3851-6.png" crc="127481612" ref="index"/>
+    <file name="u6775-5.png" crc="296067905" ref="index"/>
+    <file name="u6832-5.png" crc="262368380" ref="index"/>
+    <file name="u6879-5.png" crc="4188333365" ref="index"/>
+    <file name="u6968-4.png" crc="206306248" ref="index"/>
+    <file name="u6947-7.png" crc="51751206" ref="index"/>
+    <file name="u7654.png" crc="4223023893" ref="index"/>
+    <file name="u7654-r.png" crc="356645603" ref="index"/>
+    <file name="portada 11-u7653-r-fr.jpg" crc="116036666" ref="index"/>
+    <file name="portada 11-u7653-m-fr.png" crc="3990152511" ref="index"/>
+    <file name="u7652.png" crc="4055547114" ref="index"/>
+    <file name="u7652-r.png" crc="256826050" ref="index"/>
+    <file name="u8676.png" crc="124922286" ref="index"/>
+    <file name="u8676-r.png" crc="4293375016" ref="index"/>
+    <file name="img_6625.jpg" crc="278606546" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6625-u8678-m-fr.png" crc="3988289158" ref="index"/>
+    <file name="u8677.png" crc="4114027327" ref="index"/>
+    <file name="u8677-r.png" crc="4164358098" ref="index"/>
+    <file name="u8614.png" crc="385648343" ref="index"/>
+    <file name="u8614-r.png" crc="3831619602" ref="index"/>
+    <file name="sanblas4-u8616-r-fr.png" crc="241951598" ref="index"/>
+    <file name="sanblas4-u8616-m-fr.png" crc="84950773" ref="index"/>
+    <file name="u8615.png" crc="4161670382" ref="index"/>
+    <file name="u8615-r.png" crc="24287595" ref="index"/>
+    <file name="u1779-8.png" crc="383340943" ref="index"/>
+    <file name="u1633.png" crc="324670325" ref="index"/>
+    <file name="u1633-r.png" crc="283314840" ref="index"/>
+    <file name="u1716.png" crc="469401760" ref="index"/>
+    <file name="u1716-r.png" crc="78689462" ref="index"/>
+    <file name="u1695.png" crc="21722146" ref="index"/>
+    <file name="u1695-r.png" crc="3977413961" ref="index"/>
+    <file name="u1755.png" crc="4215965074" ref="index"/>
+    <file name="u1755-r.png" crc="303720692" ref="index"/>
+    <file name="1f.jpg" crc="397065486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2f.jpg" crc="304381860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3f.jpg" crc="16946910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4f.jpg" crc="358047169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5f.jpg" crc="4076697405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6f.jpg" crc="4116611560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7f.jpg" crc="456187352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8f.jpg" crc="515476828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9f.jpg" crc="238313059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f10.jpg" crc="4203659671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11384.png" crc="254035026" ref="index"/>
+    <file name="u11384-r.png" crc="37224887" ref="index"/>
+    <file name="historico.jpg" crc="4250711646" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="historico-u11383-m-fr.png" crc="242737367" ref="index"/>
+    <file name="u11382.png" crc="82907812" ref="index"/>
+    <file name="u11382-r.png" crc="168931805" ref="index"/>
+    <file name="u11395.png" crc="457924145" ref="index"/>
+    <file name="u11395-r.png" crc="413527343" ref="index"/>
+    <file name="portada 4-u11396-r-fr.jpg" crc="3767925426" ref="index"/>
+    <file name="portada 4-u11396-m-fr.png" crc="185622119" ref="index"/>
+    <file name="u11394.png" crc="4113060158" ref="index"/>
+    <file name="u11394-r.png" crc="312583573" ref="index"/>
+    <file name="u11406.png" crc="3901096494" ref="index"/>
+    <file name="u11406-r.png" crc="4151580087" ref="index"/>
+    <file name="cruise-u11408-r-fr.jpg" crc="476801291" ref="index"/>
+    <file name="cruise-u11408-m-fr.png" crc="4286233520" ref="index"/>
+    <file name="u11407.png" crc="4023009530" ref="index"/>
+    <file name="u11407-r.png" crc="4119979483" ref="index"/>
+    <file name="b10.jpg" crc="3896828760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b112.jpg" crc="384599578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b12.jpg" crc="190331517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b13.jpg" crc="3815144703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-buttonu3099-m-fr.png" crc="467428375" ref="index"/>
+    <file name="u3102-5.png" crc="4039527175" ref="index"/>
+    <file name="u13236_states.png" crc="3787041955" ref="index"/>
+    <file name="u13236_states-r.png" crc="3787041955" ref="index"/>
+    <file name="cruise.jpg" crc="4285153095" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12681-12.png" crc="400537870" ref="index"/>
+    <file name="u13258_states.png" crc="3787041955" ref="index"/>
+    <file name="u13258_states-r.png" crc="3787041955" ref="index"/>
+    <file name="u13208-4.png" crc="4271256961" ref="index"/>
+    <file name="u13282_states.png" crc="3787041955" ref="index"/>
+    <file name="u13282_states-r.png" crc="3787041955" ref="index"/>
+    <file name="u12825_states.png" crc="3842650239" ref="index"/>
+    <file name="u12825_states-r.png" crc="402491968" ref="index"/>
+    <file name="canal.jpg" crc="55906003" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3287-5.png" crc="4163138809" ref="index"/>
+    <file name="12-u10497-fr.png" crc="10124107" ref="index"/>
+    <file name="u3288-4.png" crc="4233693866" ref="index"/>
+    <file name="u3290_states.png" crc="3976789921" ref="index"/>
+    <file name="u3290_states-r.png" crc="4179241364" ref="index"/>
+    <file name="u13113-8.png" crc="3758443264" ref="index"/>
+    <file name="u13033.png" crc="324670325" ref="index"/>
+    <file name="u13033-r.png" crc="283314840" ref="index"/>
+    <file name="u13019.png" crc="469401760" ref="index"/>
+    <file name="u13019-r.png" crc="78689462" ref="index"/>
+    <file name="u13012.png" crc="21722146" ref="index"/>
+    <file name="u13012-r.png" crc="3977413961" ref="index"/>
+    <file name="u13024.png" crc="418468782" ref="index"/>
+    <file name="u13024-r.png" crc="439263375" ref="index"/>
+    <file name="u12175-15.png" crc="3935599440" ref="index"/>
+    <file name="u12119-15.png" crc="30647998" ref="index"/>
+    <file name="u12127-15.png" crc="3787658387" ref="index"/>
+    <file name="u12143-9.png" crc="4166926751" ref="index"/>
+    <file name="u12167-13.png" crc="315146146" ref="index"/>
+    <file name="u12153-11.png" crc="440198704" ref="index"/>
+    <file name="u12135-11.png" crc="4274683233" ref="index"/>
+    <file name="10.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4074264164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u13180-4.png" crc="413392557" ref="index"/>
+    <file name="u11573-4.png" crc="296331976" ref="index"/>
+    <file name="u3405-4.png" crc="235093140" ref="index"/>
+    <file name="6f-u4122-fr.jpg" crc="3792681632" ref="index"/>
+    <file name="11-u4123-fr.png" crc="400549448" ref="index"/>
+    <file name="u3881-4.png" crc="3855828609" ref="index"/>
+    <file name="6f-u3902-4-fr.png" crc="533356971" ref="index"/>
+    <file name="6f-u3891.png" crc="192301935" ref="index"/>
+    <file name="6f-u3891-r.png" crc="192301935" ref="index"/>
+    <file name="u3942-6.png" crc="3784756952" ref="index"/>
+    <file name="u3943-5.png" crc="3957769773" ref="index"/>
+    <file name="12-page-fr.png" crc="198115603" ref="sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="u14432-5.png" crc="352042178" ref="sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="u15298-4.png" crc="288071916" ref="sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+    <file name="u15299-5.png" crc="531455572" ref="sunny-days-at-the-beach:folklore---culture:a--modern-panama--city:historical-venue:event-planning:activities"/>
+  </folder>
+  <file name="index.html" crc="334756558" seo="true" mt="1519087348536" redirect="true"/>
+  <file name="sunny-days-at-the-beach.html" crc="4080284829" seo="true" mt="1519087265637" redirect="true"/>
+  <file name="folklore---culture.html" crc="76120446" seo="true" mt="1519087265637" redirect="true"/>
+  <file name="a--modern-panama--city.html" crc="3837198697" seo="true" mt="1519087265637" redirect="true"/>
+  <file name="historical-venue.html" crc="4104001031" seo="true" mt="1519087265637" redirect="true"/>
+  <file name="event-planning.html" crc="3847452891" seo="true" mt="1519087265637" redirect="true"/>
+  <file name="activities.html" crc="4202800934" seo="true" mt="1519087265637" redirect="true"/>
+</manifest>
